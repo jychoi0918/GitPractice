@@ -6,5 +6,6 @@ public class SeoulTour {
    //준비물?
     String tour = "투어";
     String money = "돈";
+    안내판 in = new 안내판();
 
 }
